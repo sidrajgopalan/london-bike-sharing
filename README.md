@@ -1,5 +1,3 @@
-# project
+This analysis is part of the course ST445 (Managing and Visualising Data) at the London School of Economics. This project was inspired by Todd Schneider's analysis of bike sharing data in New York. Bike sharing has taken off in a number of cities around the world and contributes greatly to reducing environment impact and improving liveability in cities. Understanding how users engage with the system can help to improve the system's efficiency and use-friendliness.
 
-Please see the most up-to-date instruction here: https://github.com/lse-st445/lectures/edit/master/projects.md
-
-Please also submit the plagiarism statement using the drop box located on the 6th floor of Columbia House. You can get a copy of the statement outside the administrative offices on the 6th floor of Columbia House. Please submit the statement by the deadline. If you are not able to do it for some reason (e.g. you are not in London by that time), please submit it within a week after the deadline. 
+The aim of the project is to conduct exploratory data analysis on the London bike sharing open dataset.
